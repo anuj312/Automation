@@ -36,7 +36,7 @@ public class AccountsPage {
 			accountsList.add(text);
 		}
 
-		return accountsList;
+		return accountsList; 
 
 	}
 
